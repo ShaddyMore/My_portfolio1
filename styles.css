@@ -9,8 +9,9 @@ body {
   width: 375px;
   left: 0;
   top: 0;
-  border-bottom-left-radius: 100px;
+  border-bottom-left-radius: 120px;
   background-color: white;
+  border: 5px solid white;
 }
 
 .nav-bar {

@@ -3,7 +3,7 @@
 # My_portfolio1
 
 In the process of creating this mobile first portfolio website, you will:
--set up a new repository and prepare it for development using best practices (e.g. linters).
+-set up a new repository and prepare it for development using best practices (e.g. linters), and also
 -build the first 2 sections of the mobile website using the template you chose in the previous step.
 
 ## Built With
@@ -24,7 +24,7 @@ To get a local copy up and running follow these simple example steps.
 - Node.js
 
 ### Setup
-- Clone the repo to your local by runing the following command `https://github.com/ShaddyMore/Hello_world`
+- Clone the repo to your local by runing the following command `https://github.com/ShaddyMore/My_portfolio1`
 
 ### Install
 - to install the dependancies, run this in the application folder from the command line `npm install

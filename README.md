@@ -2,10 +2,9 @@
 
 # My_portfolio1
 
-In the process of creating your portfolio website, you will:
-
-- set up a new repository and prepare it for development using best practices (e.g. linters).
-- build the first 2 sections of the mobile website using the template you chose in the previous step.
+In the process of creating this mobile first portfolio website, you will:
+-set up a new repository and prepare it for development using best practices (e.g. linters).
+-build the first 2 sections of the mobile website using the template you chose in the previous step.
 
 ## Built With
 

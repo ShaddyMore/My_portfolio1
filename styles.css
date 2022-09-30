@@ -5,13 +5,14 @@ body {
 }
 
 .container {
-  height: 667px;
+  height: 718px;
   width: 375px;
   left: 0;
   top: 0;
   border-bottom-left-radius: 120px;
   background-color: white;
   border: 5px solid white;
+  background-image: url(./images/header-shapes\ mobile.png);
 }
 
 .nav-bar {
@@ -37,10 +38,11 @@ a {
 }
 
 .shapes {
-  position: relative;
+  position: absolute;
   top: 0;
   left: 0;
   border: 1px;
+ 
 }
 
 .content {
@@ -55,6 +57,7 @@ a {
   top: 30px;
   left: 30px;
   border: 1px;
+  color: #172B4D;
 }
 
 .second-text {
@@ -73,10 +76,20 @@ a {
 }
 
 .let-connect {
-  color: dodgerblue;
+  color: #7F8CFF;
   font-family: 'Poppins', serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
+}
+
+.icon-social {
+  padding-top: 7px;
+  /*margin: 40px;*/
+}
+
+.icon {
+  padding-top: 7px;
+  margin: 7px;
 }
